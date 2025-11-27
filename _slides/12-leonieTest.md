@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to my Slide!"
 ---
 
-Caption here
+Update Branch
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
