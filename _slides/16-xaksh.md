@@ -1,9 +1,8 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to xaksh's page!"
 ---
 
-Caption here
+# Great things take time, still working on it.
 
-![saritocat](https://octodex.github.com/images/saritocat.png)
-{: .center}
+![saritocat](https://octodex.github.com/images/hubot.jpg){: .center}
