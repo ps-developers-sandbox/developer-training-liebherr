@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "The answer to the meaning of life is..."
 ---
 
-Caption here
+"...42"
 
 ![minertocat](https://octodex.github.com/images/minertocat.png)
 {: .center}
