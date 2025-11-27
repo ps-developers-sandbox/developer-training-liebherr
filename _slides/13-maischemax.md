@@ -3,7 +3,7 @@ layout: slide
 title: "GuMo"
 ---
 
-Hallo
+Hallo MaischeMax
 
 ![GuMo](image.png)
 {: .center}
