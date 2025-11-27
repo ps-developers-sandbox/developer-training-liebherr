@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "GuMo"
 ---
 
-Caption here
+Hallo MaischeMax
 
-![cherryontop-o-cat](https://octodex.github.com/images/cherryontop-o-cat.png)
+![GuMo](image.png)
 {: .center}
