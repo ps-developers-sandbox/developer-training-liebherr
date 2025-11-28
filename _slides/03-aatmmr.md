@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "This is aatmmr 👋"
+title: "This is aatmmr 👋 - the trainer"
 ---
 
 "The more you know, the more you don't know. 😅"
